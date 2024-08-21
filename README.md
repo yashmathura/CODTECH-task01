@@ -20,3 +20,5 @@ Open the index.html file in a web browser. Enter the name of the city in the inp
 
 Files
 index.html: The main HTML file that structures the web page. style.css: The CSS file that styles the web page. script.js: The JavaScript file that handles the fetching and displaying of weather data.
+# OUTPUT 
+![Screenshot 2024-08-15 223436](https://github.com/user-attachments/assets/fc9e1557-01a8-4da5-8298-0a401e18a53e)
